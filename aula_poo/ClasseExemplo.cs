@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 double calcularArea(double b, double h)
 {
     return b * h;
+    Console.WriteLine("Edição do rep");
 }
 
 double calcularPerimetro(double b,double h) {
